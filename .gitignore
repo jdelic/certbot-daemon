@@ -1,0 +1,17 @@
+syntax: glob
+*.pyc
+*.pyo
+*.pyd
+*.iml
+*.swp
+.project
+.pydevproject
+.settings
+.idea
+.mypy_cache
+dist/
+build/
+*.egg-info
+*.iml
+.gopythongo/etc/appconfig
+authserver/static/
