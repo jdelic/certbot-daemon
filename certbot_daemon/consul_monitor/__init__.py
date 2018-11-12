@@ -29,6 +29,7 @@ class ConsulMonitor(Thread):
         self._log = logging.getLogger(__name__)
 
     def run(self):
+        self._log.debug("Consul monitoring alive...")
         index, _ = self.consul.catalog.services()
 
         while True:
