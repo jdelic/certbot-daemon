@@ -2,7 +2,7 @@
 apscheduler==3.6.0
 cryptography==2.6.1
 Django==2.2
-djangorestframework==3.9.2
+djangorestframework==3.9.3
 envdir==1.0.1
 gunicorn==19.9.0
 hvac==0.8.2
