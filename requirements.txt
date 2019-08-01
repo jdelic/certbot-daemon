@@ -1,7 +1,7 @@
 12factor-vault==0.1.20
 apscheduler==3.6.1
 cryptography==2.7
-Django==2.2.3
+Django==2.2.4
 djangorestframework==3.10.2
 envdir==1.0.1
 gunicorn==19.9.0
