@@ -1,5 +1,5 @@
 12factor-vault==0.1.20
-apscheduler==3.6.3
+apscheduler==3.7.0
 cryptography==3.3.1
 Django==3.1.5
 djangorestframework==3.12.2
