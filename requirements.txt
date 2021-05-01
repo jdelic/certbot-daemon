@@ -9,7 +9,7 @@ hvac==0.10.10
 python-consul==1.1.0
 python-json-logger==2.0.1
 requests==2.25.1
-typing==3.7.4.3
+typing==3.10.0.0
 
 # vendored dependencies from django12factor
 dj-database-url==0.5.0
