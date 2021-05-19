@@ -5,7 +5,7 @@ Django==3.2.3
 djangorestframework==3.12.4
 envdir==1.0.1
 gunicorn==20.1.0
-hvac==0.10.11
+hvac==0.10.12
 python-consul==1.1.0
 python-json-logger==2.0.1
 requests==2.25.1
